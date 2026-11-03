@@ -1,0 +1,36 @@
+race_id,chamber,predicted_winner_party,candidate_name,win_probability
+AK-SEN,Senate,R,Dan Sullivan,0.308370
+AL-SEN,Senate,D,Everett Wess,0.028330
+AR-SEN,Senate,D,Hallie Shoffner,0.039441
+CO-SEN,Senate,R,Mark Baisley,0.012513
+DE-SEN,Senate,R,Michael Katz,0.014007
+FL-SEN,Senate,D,Angie Nixon,0.155000
+GA-SEN,Senate,R,Mike Collins,0.034448
+IA-SEN,Senate,D,Josh Turek,0.510000
+ID-SEN,Senate,D,Todd Achilles,0.044423
+IL-SEN,Senate,R,Don Tracy,0.008028
+KS-SEN,Senate,R,Roger Marshall,0.385000
+KY-SEN,Senate,R,Andy Barr,0.950000
+LA-SEN,Senate,D,Jamie Davis,0.125000
+MA-SEN,Senate,R,John Deaton,0.011512
+ME-SEN,Senate,R,Susan Collins,0.277642
+MI-SEN,Senate,R,Mike Rogers,0.215000
+MN-SEN,Senate,R,Michele Tafoya,0.092907
+MS-SEN,Senate,D,Scott Colom,0.155000
+MT-SEN,Senate,I,Seth Bodnar,0.091090
+NC-SEN,Senate,R,Michael Whatley,0.026987
+NE-SEN,Senate,I,Dan Osborn,0.320285
+NH-SEN,Senate,R,John E. Sununu,0.065109
+NJ-SEN,Senate,R,Justin Murphy,0.017991
+NM-SEN,Senate,R,Larry E. Marker,0.019500
+OH-SEN,Senate,R,Jon Husted,0.285000
+OK-SEN,Senate,D,N’Kiyla Thomas,0.021967
+OR-SEN,Senate,R,David Brock Smith,0.013473
+RI-SEN,Senate,D,Jack Reed,0.997484
+SC-SEN,Senate,D,Annie Andrews,0.325000
+SD-SEN,Senate,D,Brian Bengs,0.054835
+TN-SEN,Senate,D,Marquita Bradshaw,0.019490
+TX-SEN,Senate,R,Ken Paxton,0.265000
+VA-SEN,Senate,R,Bert Mizusawa,0.014933
+WV-SEN,Senate,D,Rachel Fetty Anderson,0.015023
+WY-SEN,Senate,D,James Byrd,0.011006

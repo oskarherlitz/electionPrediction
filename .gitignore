@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.tmp
+.venv/
+venv/
+
+# Raw Kalshi market data — NOT redistributed (vendor data; regenerate with scripts/refresh.py).
+# Excluded from this public repo for data-licensing safety; the pipeline rebuilds them.
+data/cache/
+data/reconstructed_odds_senate.csv
+data/reconstructed_odds_house.csv
+data/reconstructed_odds_full.csv
+data/q_snapshot.csv

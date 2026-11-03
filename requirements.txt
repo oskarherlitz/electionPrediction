@@ -1,0 +1,5 @@
+# Offline build + validation use only the Python standard library.
+# These are needed for the online refresh and the optional figure/replay.
+certifi>=2024.2.2      # CA bundle so urllib can verify Kalshi TLS on macOS
+matplotlib>=3.7        # single explanatory figure (Checkpoint 4)
+# pandas / numpy are optional; the core pipeline avoids them for portability.
